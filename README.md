@@ -62,6 +62,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparth292/dsa-again/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sparth292/dsa-again/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/sparth292/dsa-again/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sparth292/dsa-again/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -132,6 +133,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparth292/dsa-again/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sparth292/dsa-again/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/sparth292/dsa-again/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/sparth292/dsa-again/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sparth292/dsa-again/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Segment Tree
 |  |
 | ------- |
