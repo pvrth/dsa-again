@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/sparth292/dsa-again/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0238-product-of-array-except-self](https://github.com/sparth292/dsa-again/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
@@ -168,6 +169,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sparth292/dsa-again/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Backtracking
