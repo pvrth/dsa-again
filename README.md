@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/sparth292/dsa-again/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sparth292/dsa-again/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
@@ -27,12 +28,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sparth292/dsa-again/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3492-maximum-containers-on-a-ship](https://github.com/sparth292/dsa-again/tree/master/3492-maximum-containers-on-a-ship) |
@@ -180,4 +183,20 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
