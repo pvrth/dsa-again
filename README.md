@@ -21,6 +21,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sparth292/dsa-again/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sparth292/dsa-again/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sparth292/dsa-again/tree/master/3525-find-x-value-of-array-ii) |
@@ -87,12 +88,14 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
@@ -164,6 +167,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sparth292/dsa-again/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sparth292/dsa-again/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Segment Tree
 |  |
 | ------- |
