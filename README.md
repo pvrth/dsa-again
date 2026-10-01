@@ -79,6 +79,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sparth292/dsa-again/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sparth292/dsa-again/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sparth292/dsa-again/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/sparth292/dsa-again/tree/master/2810-faulty-keyboard) |
 | [3210-find-the-encrypted-string](https://github.com/sparth292/dsa-again/tree/master/3210-find-the-encrypted-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sparth292/dsa-again/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sparth292/dsa-again/tree/master/3498-reverse-degree-of-a-string) |
@@ -168,6 +169,7 @@
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/sparth292/dsa-again/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sparth292/dsa-again/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/sparth292/dsa-again/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/sparth292/dsa-again/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
