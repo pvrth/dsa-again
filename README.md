@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sparth292/dsa-again/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sparth292/dsa-again/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -136,6 +137,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sparth292/dsa-again/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
@@ -166,6 +168,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sparth292/dsa-again/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sparth292/dsa-again/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
