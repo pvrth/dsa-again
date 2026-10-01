@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sparth292/dsa-again/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/sparth292/dsa-again/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/sparth292/dsa-again/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
