@@ -38,6 +38,7 @@
 | [0029-divide-two-integers](https://github.com/sparth292/dsa-again/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3492-maximum-containers-on-a-ship](https://github.com/sparth292/dsa-again/tree/master/3492-maximum-containers-on-a-ship) |
@@ -66,6 +67,7 @@
 | [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sparth292/dsa-again/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sparth292/dsa-again/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
@@ -167,6 +169,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/sparth292/dsa-again/tree/master/2390-removing-stars-from-a-string) |
