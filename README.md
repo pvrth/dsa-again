@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sparth292/dsa-again/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sparth292/dsa-again/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sparth292/dsa-again/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sparth292/dsa-again/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -197,6 +200,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
