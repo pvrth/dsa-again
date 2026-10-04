@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sparth292/dsa-again/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/sparth292/dsa-again/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
@@ -70,6 +71,7 @@
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sparth292/dsa-again/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/sparth292/dsa-again/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sparth292/dsa-again/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -105,6 +107,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sparth292/dsa-again/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/sparth292/dsa-again/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
@@ -150,6 +153,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sparth292/dsa-again/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/sparth292/dsa-again/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
@@ -185,6 +189,7 @@
 | [0020-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sparth292/dsa-again/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sparth292/dsa-again/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sparth292/dsa-again/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sparth292/dsa-again/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
