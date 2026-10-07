@@ -68,6 +68,7 @@
 | [0020-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sparth292/dsa-again/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sparth292/dsa-again/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sparth292/dsa-again/tree/master/0394-decode-string) |
@@ -227,10 +228,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sparth292/dsa-again/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 ## Number Theory
 |  |
