@@ -40,6 +40,7 @@
 | [0029-divide-two-integers](https://github.com/sparth292/dsa-again/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sparth292/dsa-again/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sparth292/dsa-again/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sparth292/dsa-again/tree/master/0509-fibonacci-number) |
@@ -269,9 +270,11 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sparth292/dsa-again/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/sparth292/dsa-again/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sparth292/dsa-again/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/sparth292/dsa-again/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sparth292/dsa-again/tree/master/0509-fibonacci-number) |
 ## Counting
