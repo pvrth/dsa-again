@@ -40,6 +40,7 @@
 | [0029-divide-two-integers](https://github.com/sparth292/dsa-again/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sparth292/dsa-again/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sparth292/dsa-again/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
@@ -198,6 +199,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sparth292/dsa-again/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sparth292/dsa-again/tree/master/0735-asteroid-collision) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sparth292/dsa-again/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
