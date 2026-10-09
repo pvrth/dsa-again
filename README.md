@@ -15,6 +15,7 @@
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sparth292/dsa-again/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/sparth292/dsa-again/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sparth292/dsa-again/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sparth292/dsa-again/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/sparth292/dsa-again/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -172,6 +174,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sparth292/dsa-again/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sparth292/dsa-again/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/sparth292/dsa-again/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/sparth292/dsa-again/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sparth292/dsa-again/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sparth292/dsa-again/tree/master/0735-asteroid-collision) |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sparth292/dsa-again/tree/master/0509-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sparth292/dsa-again/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
