@@ -2,7 +2,7 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int[] ansArr = new int[nums1.length];
-
+        // aaj toh brute force approach bhi darr gya rahega
         for (int i = 0; i < nums1.length; i++) {
             boolean gotGreater = false;
 
