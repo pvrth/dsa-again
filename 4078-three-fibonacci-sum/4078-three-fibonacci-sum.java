@@ -1,11 +1,11 @@
 class Solution {
     public boolean threeFibonacciSum(int n) {
-        int a = 0 ;
-        int b = 1 ;
-        int c = 1 ;
+        int num1 = 0 ;
+        int num2 = 1 ;
+        int num3 = 1 ;
 
         while(true){
-            int sum = a + b + c ;
+            int sum = num1 + num2 + num3 ;
 
             if(sum == n){
                 return true;
@@ -14,10 +14,10 @@ class Solution {
                 return false;
             }
 
-            int nextFibo = b + c;
-            a = b ; 
-            b = c ;
-            c = nextFibo;
+            int nextFibo = num2 + num3;
+            num1 = num2 ; 
+            num2 = num3 ;
+            num3 = nextFibo;
         } 
     }
 }
