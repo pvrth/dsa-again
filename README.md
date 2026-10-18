@@ -53,6 +53,7 @@
 | [0258-add-digits](https://github.com/sparth292/dsa-again/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sparth292/dsa-again/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sparth292/dsa-again/tree/master/0509-fibonacci-number) |
+| [0866-prime-palindrome](https://github.com/sparth292/dsa-again/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -284,10 +285,12 @@
 | ------- |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sparth292/dsa-again/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/sparth292/dsa-again/tree/master/0866-prime-palindrome) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/sparth292/dsa-again/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
