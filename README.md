@@ -37,12 +37,14 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sparth292/dsa-again/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sparth292/dsa-again/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sparth292/dsa-again/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/sparth292/dsa-again/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sparth292/dsa-again/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
+| [3886-sum-of-sortable-integers](https://github.com/sparth292/dsa-again/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/sparth292/dsa-again/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sparth292/dsa-again/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sparth292/dsa-again/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/sparth292/dsa-again/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sparth292/dsa-again/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sparth292/dsa-again/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sparth292/dsa-again/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/sparth292/dsa-again/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
 |  |
 | ------- |
