@@ -126,6 +126,7 @@
 | [3330-find-the-original-typed-string-i](https://github.com/sparth292/dsa-again/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sparth292/dsa-again/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/sparth292/dsa-again/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sparth292/dsa-again/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
