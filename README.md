@@ -19,6 +19,7 @@
 | [0682-baseball-game](https://github.com/sparth292/dsa-again/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sparth292/dsa-again/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1598-crawler-log-folder](https://github.com/sparth292/dsa-again/tree/master/1598-crawler-log-folder) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
+| [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
@@ -291,6 +293,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
 ## Number Theory
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -368,4 +372,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
