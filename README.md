@@ -22,6 +22,7 @@
 | [0735-asteroid-collision](https://github.com/sparth292/dsa-again/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
 | [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1598-crawler-log-folder](https://github.com/sparth292/dsa-again/tree/master/1598-crawler-log-folder) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sparth292/dsa-again/tree/master/0074-search-a-2d-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sparth292/dsa-again/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/sparth292/dsa-again/tree/master/3665-twisted-mirror-path-count) |
@@ -321,6 +323,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/sparth292/dsa-again/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sparth292/dsa-again/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Number Theory
 |  |
@@ -358,6 +361,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/sparth292/dsa-again/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Memoization
 |  |
@@ -388,6 +392,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sparth292/dsa-again/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -410,6 +415,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sparth292/dsa-again/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sparth292/dsa-again/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
