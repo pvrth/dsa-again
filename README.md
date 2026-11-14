@@ -39,6 +39,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sparth292/dsa-again/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sparth292/dsa-again/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sparth292/dsa-again/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sparth292/dsa-again/tree/master/3525-find-x-value-of-array-ii) |
@@ -309,6 +310,7 @@
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/sparth292/dsa-again/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sparth292/dsa-again/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -316,6 +318,7 @@
 | [0238-product-of-array-except-self](https://github.com/sparth292/dsa-again/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sparth292/dsa-again/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
