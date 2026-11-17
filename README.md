@@ -98,6 +98,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sparth292/dsa-again/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/sparth292/dsa-again/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/sparth292/dsa-again/tree/master/2000-reverse-prefix-of-word) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sparth292/dsa-again/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [2409-count-days-spent-together](https://github.com/sparth292/dsa-again/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sparth292/dsa-again/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/sparth292/dsa-again/tree/master/2810-faulty-keyboard) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sparth292/dsa-again/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3174-clear-digits](https://github.com/sparth292/dsa-again/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/sparth292/dsa-again/tree/master/3210-find-the-encrypted-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sparth292/dsa-again/tree/master/3330-find-the-original-typed-string-i) |
@@ -179,6 +181,7 @@
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sparth292/dsa-again/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/sparth292/dsa-again/tree/master/3665-twisted-mirror-path-count) |
