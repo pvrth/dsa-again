@@ -32,6 +32,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sparth292/dsa-again/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sparth292/dsa-again/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sparth292/dsa-again/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sparth292/dsa-again/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sparth292/dsa-again/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sparth292/dsa-again/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sparth292/dsa-again/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -107,6 +108,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sparth292/dsa-again/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sparth292/dsa-again/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sparth292/dsa-again/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sparth292/dsa-again/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sparth292/dsa-again/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sparth292/dsa-again/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -208,6 +210,7 @@
 | [1096-brace-expansion-ii](https://github.com/sparth292/dsa-again/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sparth292/dsa-again/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sparth292/dsa-again/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sparth292/dsa-again/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/sparth292/dsa-again/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sparth292/dsa-again/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sparth292/dsa-again/tree/master/3727-maximum-alternating-sum-of-squares) |
