@@ -41,6 +41,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sparth292/dsa-again/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sparth292/dsa-again/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sparth292/dsa-again/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sparth292/dsa-again/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
@@ -151,6 +152,7 @@
 | [3174-clear-digits](https://github.com/sparth292/dsa-again/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/sparth292/dsa-again/tree/master/3210-find-the-encrypted-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/sparth292/dsa-again/tree/master/3330-find-the-original-typed-string-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sparth292/dsa-again/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/sparth292/dsa-again/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/sparth292/dsa-again/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sparth292/dsa-again/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -239,6 +241,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sparth292/dsa-again/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sparth292/dsa-again/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sparth292/dsa-again/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sparth292/dsa-again/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sparth292/dsa-again/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Stack
@@ -404,6 +407,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sparth292/dsa-again/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sparth292/dsa-again/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -433,6 +437,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sparth292/dsa-again/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sparth292/dsa-again/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sparth292/dsa-again/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
