@@ -144,6 +144,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sparth292/dsa-again/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sparth292/dsa-again/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sparth292/dsa-again/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sparth292/dsa-again/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/sparth292/dsa-again/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/sparth292/dsa-again/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sparth292/dsa-again/tree/master/2696-minimum-string-length-after-removing-substrings) |
