@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/sparth292/dsa-again/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sparth292/dsa-again/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sparth292/dsa-again/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1598-crawler-log-folder](https://github.com/sparth292/dsa-again/tree/master/1598-crawler-log-folder) |
@@ -79,6 +80,7 @@
 | [0509-fibonacci-number](https://github.com/sparth292/dsa-again/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/sparth292/dsa-again/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/sparth292/dsa-again/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sparth292/dsa-again/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/sparth292/dsa-again/tree/master/2409-count-days-spent-together) |
@@ -278,6 +280,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sparth292/dsa-again/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sparth292/dsa-again/tree/master/1352-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -329,6 +332,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sparth292/dsa-again/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sparth292/dsa-again/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/sparth292/dsa-again/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sparth292/dsa-again/tree/master/3364-minimum-positive-sum-subarray) |
@@ -450,4 +454,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sparth292/dsa-again/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sparth292/dsa-again/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
