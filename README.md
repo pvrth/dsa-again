@@ -44,6 +44,7 @@
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sparth292/dsa-again/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sparth292/dsa-again/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sparth292/dsa-again/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sparth292/dsa-again/tree/master/3525-find-x-value-of-array-ii) |
@@ -64,6 +65,7 @@
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sparth292/dsa-again/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3200-maximum-height-of-a-triangle](https://github.com/sparth292/dsa-again/tree/master/3200-maximum-height-of-a-triangle) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sparth292/dsa-again/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/sparth292/dsa-again/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
@@ -84,6 +86,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/sparth292/dsa-again/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sparth292/dsa-again/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/sparth292/dsa-again/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sparth292/dsa-again/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/sparth292/dsa-again/tree/master/3492-maximum-containers-on-a-ship) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/sparth292/dsa-again/tree/master/3524-find-x-value-of-array-i) |
@@ -327,6 +330,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sparth292/dsa-again/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/sparth292/dsa-again/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sparth292/dsa-again/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sparth292/dsa-again/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sparth292/dsa-again/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -356,6 +360,7 @@
 | [0204-count-primes](https://github.com/sparth292/dsa-again/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sparth292/dsa-again/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/sparth292/dsa-again/tree/master/0866-prime-palindrome) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sparth292/dsa-again/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
